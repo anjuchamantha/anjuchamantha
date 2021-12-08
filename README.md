@@ -3,7 +3,6 @@
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20Views&color=0e75b6&style=flat" alt="anjuchamantha" />
-<a href="https://github.com/anjuchamantha/stargazers"><img src="https://img.shields.io/github/stars/anjuchamantha/" alt="Stars Badge"/></a>
 <img src="https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social" alt="anjuchamantha" /> 
 </p>
 
