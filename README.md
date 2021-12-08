@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjuchamantha" alt="anjuchamantha" /></a> </p> -->
 
-👨‍💻 Visit my portfolio website at [https://anjuchamantha.github.io/](https://anjuchamantha.github.io/portfolio/)
+👨‍💻 Visit my portfolio website at [https://anjuchamantha.github.io/portfolio](https://anjuchamantha.github.io/portfolio)
 
 📄 Find my CV at [https://anjuchamantha.github.io/portfolio/CV_Anju.pdf](https://anjuchamantha.github.io/portfolio/CV_Anju.pdf)
 
