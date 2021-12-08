@@ -2,7 +2,8 @@
 <h3 align="center">I am a Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20views&color=0e75b6&style=flat" alt="anjuchamantha" />
+<img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20Views&color=0e75b6&style=flat" alt="anjuchamantha" />
+<a href="https://github.com/anjuchamantha/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/anjuchamantha/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <img src="https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social" alt="anjuchamantha" /> 
 </p>
 
