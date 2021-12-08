@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjuchamantha" alt="anjuchamantha" /></a> </p> -->
 
-- 👨‍💻 Visit my portfolio website at [https://anjuchamantha.github.io/](https://anjuchamantha.github.io/)
+👨‍💻 Visit my portfolio website at [https://anjuchamantha.github.io/](https://anjuchamantha.github.io/)
 
-- 📄 Find my CV at [https://anjuchamantha.github.io/portfolio/CV_Anju.pdf](https://anjuchamantha.github.io/portfolio/CV_Anju.pdf)
+📄 Find my CV at [https://anjuchamantha.github.io/portfolio/CV_Anju.pdf](https://anjuchamantha.github.io/portfolio/CV_Anju.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
