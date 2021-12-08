@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anju Chamantha</h1>
-<h3 align="center">I am a Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
+<h3 align="center">I am a Computer Science & Engineering Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
