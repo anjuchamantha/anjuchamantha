@@ -54,10 +54,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&locale=en&include_all_commits=true" alt="anjuchamantha" /></p> -->
 
-<a href="https://github.com/anjuchamantha">
+<!-- <a href="https://github.com/anjuchamantha">
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true&theme=dracula" />
-</a>
+</a> -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&include_all_commits=true&count_private=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjuchamantha&" alt="anjuchamantha" /></p> -->
