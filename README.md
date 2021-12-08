@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anju Chamantha</h1>
-<h3 align="center">I am a Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time. Seeking for a career opportunity in the field of Software Engineering.</h3>
+<h3 align="center">I am a Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20views&color=0e75b6&style=flat" alt="anjuchamantha" /> </p>
 ###
@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&locale=en&include_all_commits=true" alt="anjuchamantha" /></p> -->
 
 <a href="https://github.com/anjuchamantha">
-  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true" />
+  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true&theme=dracula" />
 </a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjuchamantha&" alt="anjuchamantha" /></p> -->
