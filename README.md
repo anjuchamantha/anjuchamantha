@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anju</h1>
 <h3 align="center">I am a Computer Science & Engineering Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anjuchamantha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/anjuchamantha?trk=profile-badge">Anju Chamantha</a></div>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social" alt="Follows" /> 
