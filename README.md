@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social" alt="Follows" /> 
 </p>
 
-👨‍💻 Visit my portfolio website at [https://anjuchamantha.github.io/portfolio](https://anjuchamantha.github.io/portfolio)
+👨‍💻 Visit my portfolio at [https://anjuchamantha.github.io/portfolio](https://anjuchamantha.github.io/portfolio)
 
 📄 Find my CV at [https://anjuchamantha.github.io/portfolio/CV_Anju.pdf](https://anjuchamantha.github.io/portfolio/CV_Anju.pdf)
 
