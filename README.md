@@ -58,6 +58,6 @@
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true&theme=dracula" />
 </a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&include_all_commits=true)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjuchamantha&" alt="anjuchamantha" /></p> -->
