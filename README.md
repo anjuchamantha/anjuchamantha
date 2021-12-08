@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjuchamantha&label=Profile%20views&color=0e75b6&style=flat" alt="anjuchamantha" /> </p>
 ![profile count](https://komarev.com/ghpvc/?username=anjuchamantha&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social)](https://github.com/anjuchamantha)&nbsp;
+[![GitHub anjuchamantha](https://img.shields.io/github/followers/anjuchamantha?label=follow&style=social)](https://github.com/anjuchamantha)&nbsp;
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjuchamantha" alt="anjuchamantha" /></a> </p> -->
 
