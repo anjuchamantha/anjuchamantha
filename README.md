@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anju Chamantha</h1>
+<h1 align="center">Hi 👋, I'm Anju</h1>
 <h3 align="center">I am a Computer Science & Engineering Final Year undergraduate with good skills, attitude, and passion for learning and willing to put the maximum effort into whatever I do. Have an interest in designing and developing mobile & web solutions. Love to do robotics & IoT projects in leisure time.</h3>
 
 <p align="left"> 
@@ -31,8 +31,6 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  
-  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -46,10 +44,6 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjuchamantha&show_icons=true&locale=en&layout=compact" alt="anjuchamantha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&locale=en&include_all_commits=true" alt="anjuchamantha" /></p> -->
-
-<!-- <a href="https://github.com/anjuchamantha">
-  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true&theme=dracula" />
-</a> -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 
