@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dracula" alt="anjuchamantha"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjuchamantha&theme=dracula" alt="anjuchamantha"/></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjuchamantha&show_icons=true&locale=en&theme=dracula&include_all_commits=true&langs_count=9&layout=compact&hide=Html,Jupyter Notebook,C,Kotlin,Swift,Objective-C" alt="anjuchamantha"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjuchamantha&show_icons=true&locale=en&theme=dracula&include_all_commits=true&langs_count=9&layout=compact&hide=Html,Jupyter Notebook,CSS,Kotlin,Swift,Objective-C" alt="anjuchamantha"/></p>
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anjuchamantha&show_icons=true&include_all_commits=true&count_private=true&theme=dracula) -->
 
 
