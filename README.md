@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anjuchamantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjuchamantha" height="30" width="40" /></a>
 <a href="https://fb.com/anju.chamantha.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anju.chamantha.77" height="30" width="40" /></a>
+<a href="https://medium.com/@anjuchamantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anjuchamantha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technical Skills:</h3>
